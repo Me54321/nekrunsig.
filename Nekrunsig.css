@@ -39,20 +39,20 @@ lss_6 -> lss_6
 	-webkit-transition: width 1s;
 }
 .lss_24 {
-	background-image: url('https://i.nahraj.to/f/27qL.jpg');
-	background-color: black;
+	background-image: url('https://i.pinimg.com/originals/26/9e/31/269e314e5f3b0bb9cc0dcad560052352.jpg');
+	background-color: black;  
 }
 .lss_23 {
+	background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/b0881a53-2052-4d37-a069-a1d4530bde15/d8qudx3-a861f1f5-14b6-44b4-9a66-daea5bcfc345.png/v1/fill/w_1024,h_576,q_80,strp/bloodborne_hunter_by_krlilies_d8qudx3-fullview.jpg');
+	background-color: black; 
+}
+.lss_22 {
 	background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/b0aa6762-bbdc-44ce-a7af-c87ecffae250/d7lvslh-5bc477d6-0372-482a-b2d8-86005ea20ad7.jpg');
 	background-color: black;
 }
-.lss_22 {
-	background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/b0881a53-2052-4d37-a069-a1d4530bde15/d8qudx3-a861f1f5-14b6-44b4-9a66-daea5bcfc345.png/v1/fill/w_1024,h_576,q_80,strp/bloodborne_hunter_by_krlilies_d8qudx3-fullview.jpg');
-	background-color: black;
-}
 .lss_21 {
-	background-image: url('https://i.pinimg.com/originals/26/9e/31/269e314e5f3b0bb9cc0dcad560052352.jpg');
-	background-color: black;
+	background-image: url('https://i.nahraj.to/f/27qL.jpg');
+	background-color: black; 
 }
 
 .lss_1:not(:hover) > .lss_21 {
