@@ -56,11 +56,11 @@ lss_6 -> lss_6
 }
 
 .lss_1:not(:hover) > .lss_21 {
-	width: 1000px;
+	width: 600px;
 }
 
 .lss_2:hover {
-	width: 1000px;
+	width: 400px;
 }
 
 
