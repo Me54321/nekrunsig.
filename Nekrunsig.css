@@ -86,7 +86,7 @@ lss_6 -> lss_6
 }
 .lss_54 {
 	height: 50px;
-	top: 520px;
+	top: 50px;
 }
 .lss_2:hover > .lss_5:not(:hover), .lss_2:hover > a > .lss_5:not(:hover) {
 	opacity: .4;
