@@ -69,7 +69,7 @@ lss_6 -> lss_6
 	position: absolute;
 	height: 200px;
 	width: 150px;
-	top: 1000px;
+	top: 50px;
 	left: 10px;
 	
 	opacity: 0;
@@ -134,7 +134,7 @@ lss_6 -> lss_6
 
 .lss_3 {
 	position: absolute;
-	bottom: 20px;
+	bottom: 10px;
 	right: 3px;
 	
 	
